@@ -1,0 +1,36 @@
+@media screen{
+base {
+
+}
+body {
+    background-color: #212E47;
+    background-size: contain;
+    background-image: -webkit-linear-gradient(270deg,rgba(33,46,71,1.00) 16.06%,rgba(79,26,81,1.00) 66.85%,rgba(176,44,77,1.00) 91.71%);
+    background-image: -moz-linear-gradient(270deg,rgba(33,46,71,1.00) 16.06%,rgba(79,26,81,1.00) 66.85%,rgba(176,44,77,1.00) 91.71%);
+    background-image: -o-linear-gradient(270deg,rgba(33,46,71,1.00) 16.06%,rgba(79,26,81,1.00) 66.85%,rgba(176,44,77,1.00) 91.71%);
+    background-image: linear-gradient(180deg,rgba(33,46,71,1.00) 16.06%,rgba(79,26,81,1.00) 66.85%,rgba(176,44,77,1.00) 91.71%);
+    background-origin: border-box;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    font-family: "Droid Sans Mono";
+    color: #2762A8;
+    text-align: center;
+}
+    background-image: -webkit-linear-gradient(270deg,rgba(128,41,251,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(128,41,251,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(128,41,251,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(128,41,251,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-color: #B52729;
+list Item {
+}
+
+}
+
+
+
+
+}
+body h4 {
+    color: #B42B89;
+    font-family: "Droid Sans Mono";
+}

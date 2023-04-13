@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+@media screen{
+h4 {
+    color: #5B64C3;
+    text-shadow: 2px 2px 4px #9B095E;
+    font-family: "Droid Sans Mono";
+    font-style: normal;
+    font-variant: normal;
+    font-size: large;
+    text-align: center;
+    text-decoration: underline;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+}
+
+}

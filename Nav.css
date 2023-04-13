@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+@media screen{
+nav {
+    color: #D32E86;
+    font-family: "Tomarik Display", "Tomarik Display Line", "Tomarik Display Line Shadow", "Tomarik Display Shadow", "Trade Gothic Next LT Pro", "Trade Gothic Next LT Pro BdCn", "Trade Gothic Next LT Pro BoldCm", "Trade Gothic Next LT Pro Cm", "Trade Gothic Next LT Pro Cn", "Trade Gothic Next LT Pro Lt", "Trade Gothic Next SR Pro", "Trade Gothic Next SR Pro Cm", "Trade Gothic Next SR Pro Cn", "Trade Gothic Next SR Pro Hv", "Trade Gothic Next SR Pro Hv Cm", "Trade Gothic Next SR Pro Hv Cn";
+    font-style: italic;
+    text-align: center;
+    text-shadow: 2px 2px 6px #880F5E;
+    background-color: #212E47;
+    -webkit-box-shadow: 0px 0px #232EA7;
+    box-shadow: 0px 0px #232EA7;
+    letter-spacing: 1px;
+}
+link {
+
+}
+
+
+}
